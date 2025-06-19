@@ -26,3 +26,5 @@
 #### **Figma**:web・appのデザイン時に使用<br>
 #### **Discord**:チーム制作時の連絡ツールとして使用<br>
 #### **Notion**:ペルソナ分析や、書類共有時に使用<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuki00Yukishiro)](https://github.com/anuraghazra/github-readme-stats)
